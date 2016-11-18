@@ -1,4 +1,8 @@
 # PHP class for communicating with DirectAdmin API
+[![Latest Version](https://img.shields.io/github/release/solitweb/directadmin.svg?style=flat-square)](https://github.com/solitweb/directadmin/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Build Status](https://img.shields.io/travis/solitweb/directadmin/master.svg?style=flat-square)](https://travis-ci.org/solitweb/directadmin)
+[![Total Downloads](https://img.shields.io/packagist/dt/solitweb/directadmin.svg?style=flat-square)](https://packagist.org/packages/solitweb/directadmin)
 
 More info on the PHP class: http://forum.directadmin.com/showthread.php?t=258
 
